@@ -1,0 +1,296 @@
+User: Beware! If you get a video call from an unknown number and say that we are police, CBI, customs or judge, don't be afraid.
+Agent: They can become cyber criminals.
+User: Immediately contact National Cyber Helpline 1930.
+Agent: This is Minister of Home Affairs.
+User: Hello.
+Agent: Hello.
+User: Sir, good evening. My name is Vishwa. I am calling from Next Wave.
+Agent: Where are you calling from? Who is it?
+User: Sir, I am calling from Next Wave. You take online coaching, right?
+Agent: Yes, tell me.
+User: I can talk to you, sir. Are you free? Is it the right time?
+Agent: Yes, it is the right time. I am free. Talk to me.
+User: There are two boys in Next Wave.
+Agent: Is it? Are there two boys?
+User: There are two boys. Tell me who you are talking about.
+Agent: Yoganand.
+User: Yoganand. Okay, senior. We have also joined another boy in Next Wave.
+Agent: Is it? Okay. Is Yoganand your brother?
+User: We have also joined his brother.
+Agent: Okay, okay, sir. Have you joined your brother as well?
+User: Yes, yes. I have joined.
+Agent: Okay, okay.
+User: Yoganand came in the second year of B.Tech.
+Agent: Yes, yes, sir.
+User: Another boy came in the second year of B.Tech.
+Agent: I just spoke to Babu.
+User: He told me to call my father.
+Agent: He told me to discuss about payment.
+User: I called him, sir.
+Agent: Yes, tell me.
+User: Babu came and is in the second growth cycle.
+Agent: Learning is good now. It is a little slow.
+User: I told him.
+Agent: Usually, we have time in the fourth year.
+User: We can complete it.
+Agent: There are pending things.
+User: I told him to start from today.
+Agent: He said he will do it.
+User: So, is Mentor Ma'am calling you, sir?
+Agent: No, sir.
+User: If it was before this,
+Agent: I would have messaged her about the parent meeting six months ago.
+User: Okay.
+Agent: Actually, May 3rd,
+User: you got a call at 9pm, sir.
+Agent: At 9pm in the night.
+User: You got a call.
+Agent: I got a call at 9pm.
+User: I was busy with the call.
+Agent: You had a holiday yesterday and today.
+User: I will tell you once.
+Agent: I didn't call you anymore because I was busy.
+User: If you are busy with the call,
+Agent: after a week or so,
+User: you will get a call.
+Agent: That is how it is today.
+User: So, we don't have any issue.
+Agent: I will tell you.
+User: I will tell you.
+Agent: You said there were no reports.
+User: I will tell you.
+Agent: The payment plan is in Bajaj.
+User: The EMI process.
+Agent: Yes.
+User: Did it take you 24 months to get the fees?
+Agent: I will tell you the fees.
+User: I think it took me 24 months.
+Agent: Do you remember the total fees?
+User: How much did you say?
+Agent: 165?
+User: Do you remember?
+Agent: I think it was 165.
+User: The total fees was 165.
+Agent: There was a discount of 15,000.
+User: You used a coupon code.
+Agent: After using the coupon code,
+User: the total fees was 1,40,000.
+Agent: You had to pay.
+User: You paid 18,000 for the seat reservation.
+Agent: In Bajaj, you got 69,673 rupees.
+User: You got the approval in 19 months.
+Agent: The remaining amount was approved in 10 years.
+User: I will adjust the EMI.
+Agent: I will adjust the EMI.
+User: There is an amount of 52,327 rupees.
+Agent: There is an amount of 52,327 rupees.
+User: It will be available for 6 months.
+Agent: Can you pay that?
+User: It will be available for 6 months.
+Agent: Is it okay?
+User: Hello?
+Agent: It would be better if you take a minute to talk.
+User: I will tell you once.
+Agent: You have a loan of Rs.1,40,000.
+User: Hello?
+Agent: Sir?
+User: You have been talking about the amount and finance for a long time, but I have not heard you.
+Agent: Tell me, sir.
+User: I am not able to attend my son's training and meeting.
+Agent: I am not able to attend my parents' meetings.
+User: I am not able to attend my son's meetings.
+Agent: I have received your EMI for 6 months and I am not able to attend it.
+User: I am telling you that I will raise the ticket because you did not receive it.
+Agent: I am not able to attend it.
+User: That is why I am trying to stop it.
+Agent: Okay.
+User: I have to attend my son's parents' meeting.
+Agent: I have to know about my son's growth.
+User: Yes, sir.
+Agent: This is not a big problem for me.
+User: I do not have a problem with the EMI you have given for 6 months or 5 months.
+Agent: Okay.
+User: You have received an EMI for 1 month, right?
+Agent: Yes, sir.
+User: It has been a year and a half.
+Agent: Do you have a delay in receiving the EMI?
+User: I am not saying that I am late.
+Agent: Actually, I am getting late for a minute or two in the day.
+User: Yes, sir. I am not denying it.
+Agent: I am not disappointed.
+User: I have joined my younger son.
+Agent: Okay.
+User: Okay.
+Agent: With the confidence that you have, with the confidence that CCB has,
+User: Then I joined Kinnambai.
+Agent: Okay.
+User: My elder brother told me about the information,
+Agent: about the parent meetings, and about the growth.
+User: He told me that he used to come to the companies for consulting.
+Agent: When Lakshman called me for the first time,
+User: he told me that I would get a job after 6 months.
+Agent: Okay.
+User: You would get a part-time job after 6 months, sir.
+Agent: He told me that he would pay the EMI and all.
+User: Okay.
+Agent: But I didn't get a job after 6 months.
+User: I didn't get a job after 6 months.
+Agent: Okay, sir.
+User: Let me explain it to you.
+Agent: If I don't get a job, what will I tell him?
+User: Yes, sir.
+Agent: Okay, sir.
+User: Let me explain it to you.
+Agent: I will tell you the same thing.
+User: You got a call on May 3rd.
+Agent: You got a call on 9 PM.
+User: But you didn't call back because you were busy.
+Agent: You got a call on the next day.
+User: I would call at 9 or 10 PM and sleep.
+Agent: Or I would go to my work and sleep.
+User: I would do it at any time.
+Agent: I would be free at that time.
+User: So, I wouldn't call back.
+Agent: Actually, usually,
+User: parents, job holders, and business people,
+Agent: they get free after 6 months.
+User: They would come in a queue at that time.
+Agent: It's important.
+User: They would come in a queue in the morning.
+Agent: They would say that they would be free in the evening.
+User: They would come in a queue at that time.
+Agent: I didn't get a job in the morning or evening
+User: because I was an insurance advisor.
+Agent: I got a job once at night.
+User: Okay, sir.
+Agent: Are you an insurance advisor?
+User: I'm an insurance advisor.
+Agent: I also work as a doctor.
+User: Okay, nice.
+Agent: Where are you from, sir?
+User: Chittoor?
+Agent: Madanapalli.
+User: Madanapalli.
+Agent: Okay, Madanapalli district.
+User: Okay, sir.
+Agent: Okay, sir.
+User: Okay, sir.
+Agent: There's no issue, sir.
+User: I'll raise the ticket once.
+Agent: You'll definitely get a call tomorrow.
+User: Please inform them once.
+Agent: Like, I'm not getting any reports.
+User: Like, if there's any issue,
+Agent: if you tell them once,
+User: I'll tell them.
+Agent: They'll call you and ask.
+User: Ask them again and again
+Agent: why you're not getting any reports.
+User: Okay, right.
+Agent: I'll tell them, sir.
+User: There's no issue.
+Agent: If it's learning,
+User: you have to improve a little.
+Agent: It's good,
+User: but you have to improve a little.
+Agent: Before this,
+User: his name was Kavitha or something.
+Agent: I don't even remember
+User: if it was Jyothi or Kavitha.
+Agent: Okay.
+User: Sir, I'll be on duty up to 9.
+Agent: You can call me any time, any day.
+User: I'll be their class coach.
+Agent: I'll be their coach
+User: in CCBP.
+Agent: Success coach.
+User: Success coach.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: Okay, sir.
+Agent: I'll inform them once, sir.
+User: I'll inform the coach too.
+Agent: I'll ask what happened to the success coach.
+User: Okay?
+Agent: Yes, sir.
+User: No, sir.
+Agent: Yes, sir.
+User: Yes, sir.
+Agent: That's it.
+User: Yes, sir.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: Okay.
+Agent: Yes, sir.
+User: Yes, sir.
+Agent: Yes, sir.
+User: Yes, sir.
+Agent: Yes, sir.
+User: That's it.
+Agent: Ms. How are you?
+User: How are you feeling now?
+Agent: Are you in a video or something?
+User: What can I tell you about this?
+Agent: It's been a year now.
+User: Every month...
+Agent: Sir, I mean...
+User: Sir, I mean...
+Agent: I'm not saying no, sir.
+User: We're a payment-related team.
+Agent: I called you.
+User: I'll take care of the learning.
+Agent: You should get regular calls from the mentor.
+User: You'll get calls from the success coach.
+Agent: I didn't do it.
+User: They did it six months ago.
+Agent: Six months ago or three months ago.
+User: I've been doing everything.
+Agent: I'll take care of everything.
+User: Tell me everything.
+Agent: I'll do it.
+User: I don't have the address.
+Agent: Okay.
+User: I don't have the response.
+Agent: Give them the email first.
+User: Tell them to call me.
+Agent: I'll proceed with that.
+User: Okay, sir.
+Agent: Okay.
+User: Done, sir.
+Agent: You'll get a call tomorrow.
+User: No issues.
+Agent: Okay, sir.
+User: Mm-hmm.
+Agent: Like 2 p.m.
+User: Available, sir?
+Agent: Anytime available.
+User: Okay.
+Agent: Done, sir.
+User: Yeah.
+Agent: We'll right-as of Saturday.
+User: Well, make sure to do it.
+Agent: Okay.
+User: Send me the information, man.
+Agent: This next one, cause that flow…
+User: Okay, sir.
+Agent: Food delivery from Mexico?
+User: Mm-hmm.
+Agent: From Mexico, sir?
+User: If you guys make, like 10-15 minutes.
+Agent: Mm-hmm.
+User: At once I will..
+Agent: I'll probably get a response.
+User: Okay.
+Agent: Dialrukgle, thank you, sir.
+User: At once I'm gonna send your package to Mexico.
+Agent: Malik, thank you.
+User: Damn, Isolam, thank good God.
+Agent: We gotta slow that down.
+User: If you guys get a flurry, we'll have 10-20 minutes to sign them.
+Agent: That's right.

@@ -1,0 +1,263 @@
+User: I
+Agent: Hello
+User: Hello
+Agent: Is this Sujith speaking?
+User: Yes
+Agent: I have been calling you since last week
+User: Yes, tell me
+Agent: I am continuing my studies in the next year
+User: Yes, tell me
+Agent: You have taken a course in the next year
+User: So I called you to talk about it
+Agent: To talk about it?
+User: I called you to talk about it
+Agent: I called you to talk about it
+User: Okay
+Agent: Okay
+User: Okay
+Agent: So, you are not attending any classes these days?
+User: No
+Agent: So, you are not attending any classes these days?
+User: No
+Agent: I have midterms
+User: Okay
+Agent: Have you paid the payment yet?
+User: No
+Agent: I will pay it in a month
+User: Okay
+Agent: Okay
+User: So, I called you to talk about it
+Agent: Do you have an exam this month?
+User: Yes
+Agent: I have an exam this month
+User: Do you have an exam today?
+Agent: I have an exam today
+User: I have an exam today
+Agent: Okay
+User: So, we have two updates
+Agent: So, I called you to talk about it
+User: So, your name is Fania
+Agent: I am speaking from PRATV
+User: So,
+Agent: First of all
+User: How is our next year's ending?
+Agent: How is our next year's ending?
+User: Good
+Agent: Do you have any complaints?
+User: Do you have any complaints?
+Agent: No sir
+User: Okay
+Agent: How is your mentor responding to you?
+User: Mentor is responding well
+Agent: This month I am on leave
+User: He is responding well
+Agent: Who is he?
+User: Malathi sir?
+Agent: Yes
+User: He is on leave this month
+Agent: He is on personal leave
+User: So,
+Agent: Everything is fine with you?
+User: Yes
+Agent: Okay
+User: One more thing
+Agent: I asked you a question
+User: How is your learning percentage?
+Agent: And also
+User: Your mentor also told you
+Agent: Our next year's
+User: Our next year's
+Agent: So, as a benefit
+User: For our students
+Agent: Along with the certificate
+User: They are also providing a master certificate
+Agent: Did your mentor tell you?
+User: Yes sir
+Agent: Did your mentor tell you?
+User: Yes sir
+Agent: Okay
+User: So,
+Agent: Until the next year
+User: What did they tell you?
+Agent: What did they tell you?
+User: Tell me
+Agent: The price will reduce
+User: We will have to pay
+Agent: We will have to pay
+User: So,
+Agent: Our next year's
+User: We will have to pay
+Agent: So, as a benefit
+User: For our students
+Agent: Along with the certificate
+User: They are also providing a master certificate
+Agent: So,
+User: We will have to pay
+Agent: The same amount
+User: For the certificate
+Agent: Okay
+User: So,
+Agent: Okay
+User: Then
+Agent: 80%
+User: 80%
+Agent: Less than 80%
+User: Will receive coding
+Agent: So,
+User: You will get
+Agent: You will get
+User: You will get
+Agent: From each countries
+User: Okay
+Agent: So,
+User: Okay
+Agent: So,
+User: Okay
+Agent: Okay
+User: Okay
+Agent: So,
+User: Okay
+Agent: Okay
+User: Okay
+Agent: Okay
+User: Yeah
+Agent: Yes
+User: Yeah
+Agent: Okay
+User: Okay
+Agent: Okay
+User: Okay
+Agent: Yes
+User: Okay
+Agent: Okay
+User: I'm not sure if I can do it.
+Agent: Okay.
+User: But, I'm going to call it in.
+Agent: So, if you have this,
+User: if you want to get this Master Ticket,
+Agent: you have to be in the NBFC.
+User: So, this is the rule we have.
+Agent: I understand.
+User: So, we don't have to get this Master Ticket,
+Agent: but we have to be in the next year's class.
+User: Yes, sir.
+Agent: So, what is this Jodo?
+User: Actually, this is like a second party.
+Agent: Okay, sir.
+User: So, this is like a second party.
+Agent: So, if you are in this Jodo,
+User: you won't be accepted.
+Agent: So, what do we do here?
+User: So, from this Jodo,
+Agent: we push to the NBFC.
+User: NBFC?
+Agent: NBFC means Non-Bank Finance Company.
+User: Okay, sir.
+Agent: So, we don't have extra money here.
+User: We don't have to pay extra.
+Agent: We just have to pay the flat amount.
+User: So, this is like a direct next year's class?
+Agent: So, what do we have in the middle?
+User: In the middle?
+Agent: So, this is like a second party.
+User: Yes.
+Agent: So, this is like a next year's class?
+User: NBFC?
+Agent: We don't have NBFC.
+User: So, how do we get NBFC on the mobile?
+Agent: Bajaj, Vatra, Anupi, Monk.
+User: Bajaj, right?
+Agent: So, what is this?
+User: Do you have any idea?
+Agent: So, we do this at home,
+User: but this is like a direct next year's class.
+Agent: So, what is this Jodo?
+User: This is like a second party.
+Agent: I have told you this case before.
+User: It is Bajaj, sir.
+Agent: But my father didn't agree.
+User: He didn't agree.
+Agent: He said, it is convenient and safe for us.
+User: Why do we need Bajaj, Vatra?
+Agent: So, you didn't even try.
+User: No, sir.
+Agent: He said it 2-3 times.
+User: But he said there will be discounts.
+Agent: No discounts.
+User: It is safe for now.
+Agent: Why do we need to convert?
+User: What is safe?
+Agent: It is very dangerous if you are late.
+User: If you are late, it is like NBFC.
+Agent: It is dangerous there.
+User: I won't say it is dangerous there.
+Agent: Otherwise, you will have direct support from us.
+User: Similarly, if you want to become a master,
+Agent: you should be in NBFC.
+User: That is the main reason.
+Agent: I am not interested in becoming a master, sir.
+User: I will see in the further years.
+Agent: Further?
+User: I will see in the further years.
+Agent: I am not interested in becoming a master.
+User: Do you know what is the cost outside?
+Agent: Do you know what is the cost outside?
+User: It is in lakhs.
+Agent: Yes, sir.
+User: If you become a master,
+Agent: you will get Rs.20,000 or Rs.25,000.
+User: Extra.
+Agent: I think Rs.25,000 is equivalent to Rs.15,000.
+User: Rs.15,000.
+Agent: You will get this for a certificate.
+User: Rs.15,000?
+Agent: Rs.15,000 to Rs.25,000.
+User: You are smart.
+Agent: Are you a genius?
+User: Are you smart or a genius?
+Agent: I am a genius, sir.
+User: You don't need a genius.
+Agent: Do you need a genius?
+User: No.
+Agent: If you are there,
+User: you will get Rs.15,000.
+Agent: Your mentor will guide you.
+User: Okay, ma'am.
+Agent: Why do you refuse?
+User: Tell me the reason, ma'am.
+Agent: I don't want to tie-up with Bajaj.
+User: I don't want to tie-up with Bajaj.
+Agent: Why Bajaj?
+User: I want to pay the entire payment.
+Agent: Entire payment?
+User: We have no cost here.
+Agent: We have no cost here.
+User: My father told me
+Agent: to shift from a poor family.
+User: You will get a good certificate.
+Agent: You will get a good certificate.
+User: You will get all the benefits.
+Agent: We will do whatever we can.
+User: We will do whatever we can.
+Agent: We will tie-up with them.
+User: We will tie-up with them.
+Agent: Okay?
+User: Okay, sir.
+Agent: We have nothing to do.
+User: It's a small process.
+Agent: Ask your father what I want.
+User: I will call your father
+Agent: and talk to him.
+User: Okay, sir.
+Agent: Sir?
+User: Okay, let's leave it at that.
+Agent: Okay, sir.
+User: We'll see what we can do in the future.
+Agent: Okay, sir.
+User: Okay?
+Agent: Okay.
+User: So, let's find your dad.
+Agent: Okay, sir.
+User: Okay?
+Agent: Yeah.
+User: Okay.

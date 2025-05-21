@@ -1,0 +1,303 @@
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: ....
+User: ....
+Agent: So, if you see, you are continuing to pay the entire fees, right?
+User: So, if you continue that growth, you will get the entire certification that you have learned the course.
+Agent: And maybe you have developed some projects or websites from here, right?
+User: So, you get the full certificate of all that, which is accepted everywhere.
+Agent: You can do an internship now and go ahead and become a permanent employee there.
+User: So, there too, you may get some benefits because you will have the certificate of exercise skills, right?
+Agent: So, you can...
+User: No, that's not true.
+Agent: I mean, my plan was to continue again.
+User: Because, you see, there is no cyber security, which is being taught here.
+Agent: Okay, okay.
+User: Because all this was very new, so it took time for me to adjust.
+Agent: Okay.
+User: So, I mean, once I get an internship, whatever it is, because it's an electrical company,
+Agent: I will most probably think that I will shift to web development in the future or just development accordingly.
+User: So, I will continue again next year.
+Agent: But for now, I want to gain a little experience so that I can mention it in the resume in the future.
+User: I liked that a lot.
+Agent: Because the more experience you take, the better your placement will be.
+User: You know that, right?
+Agent: So, this is a very good thing that you have thought.
+User: And you have already created a static or responsive website from Nextcloud.
+Agent: You have also solved the first problem of SQL and Python, right?
+User: You have also done a dynamic web application.
+Agent: So, you can continue the remaining part.
+User: No issue.
+Agent: So, first I will tell you about learning performance.
+User: Basically, I work as a relationship manager in Nextcloud.
+Agent: And maybe you must have talked to me about starting where I did your EMI process.
+User: Right?
+Agent: You might remember.
+User: So, 65% is your overall performance.
+Agent: Okay?
+User: So, now I called you because first I wanted to tell you about your learning performance.
+Agent: Second, I wanted to inform you about your EMI.
+User: Like you joined Nextcloud two years ago.
+Agent: Correct?
+User: Almost two years, right?
+Agent: So, basically, you were given two options here.
+User: First, full payment.
+Agent: And second, Digital Loan No Cost EMI.
+User: You were told about it.
+Agent: Your Genius Program.
+User: Where you selected the second option, Digital Loan No Cost EMI.
+Agent: And there you had put a document of someone else.
+User: You had put a document of your parents, right?
+Agent: Yes.
+User: Whose bank card did you put?
+Agent: It was mine.
+User: Okay.
+Agent: And your EMI was going from your account, right?
+User: Yes.
+Agent: But at that time, you didn't have any source of income.
+User: That's why we did your process in pairs, right?
+Agent: Yes.
+User: So, now you have become a civil.
+Agent: Like now, all your EMI has gone from time to time.
+User: Or has your EMI ever been late?
+Agent: According to me, my COVID score is not showing anything right now.
+User: Actually, this was my last call.
+Agent: Sir had called me.
+User: He had checked my COVID score.
+Agent: He had shared it on the screen.
+User: I had shown it to him.
+Agent: He didn't want to show it to me.
+User: So, I said, it's okay.
+Agent: Let's do it this way.
+User: So, that's how it happened.
+Agent: Okay.
+User: Okay.
+Agent: So, who called?
+User: Madhur sir?
+Agent: No.
+User: I don't remember.
+Agent: Sorry.
+User: I don't remember.
+Agent: Your voice is breaking.
+User: Hello.
+Agent: I don't remember the name.
+User: Okay.
+Agent: How long ago did you get a call?
+User: Can you tell me?
+Agent: I got a call 6 months ago.
+User: Okay.
+Agent: And which account is your bank using to pay your EMI?
+User: Kotec Bank.
+Agent: Okay.
+User: So, your EMI is going from Kotec Bank.
+Agent: Okay.
+User: So, I got a call from Kotec Bank to tell them that my EMI is going from Kotec Bank.
+Agent: So basically, if you have been paying EMI from time to time for 2 years, your EMI must
+User: have been on Google Pay or PhonePay.
+Agent: By paying your EMI from time to time, you get a civil gain.
+User: Okay.
+Agent: So basically, I called you because your EMI was going from Jodoh.
+User: But you would have got a call from the sir.
+Agent: He would have told the same thing.
+User: That our Jodoh is temporary access.
+Agent: So your EMI will go from MBFC.
+User: Right?
+Agent: But because you are not a civil, you did not shift.
+User: Right?
+Agent: And when your EMI shifts through MBFC, our main motive is not only to educate the children
+User: but also to personally support and appreciate them.
+Agent: So after that, you have a mock interview.
+User: You get support in all your resume building.
+Agent: So that process has not been completed yet.
+User: That is why I called.
+Agent: Because next month your EMI will not go because of that.
+User: And it will be late.
+Agent: So it will be overdue.
+User: Right?
+Agent: So that is why I called to ask why your process has not been completed yet.
+User: Because of the screen, I think so.
+Agent: Okay, you were busy, that's why he couldn't do it, right?
+User: But please complete it.
+Agent: Check the shipping once, how much it is.
+User: Because you will have an issue in giving the M.I. from next month.
+Agent: So that's why I called you again to inform you.
+User: Here everything is there.
+Agent: Already your PAN card is there.
+User: In which your date of birth is 24-02-2002.
+Agent: Your Aadhaar card photo is also there.
+User: And all the details are there, but some details are not there.
+Agent: Okay?
+User: You have put your address, 111 Mahavir Nagar.
+Agent: Right bus stand, first class.
+User: So there are some details and some are not there.
+Agent: So please check the shipping once, how much it is.
+User: It is shown on Google Pay or Phone Pay.
+Agent: Yes, you will see it on Google Pay.
+User: Okay, thank you.
+Agent: That's the same thing.
+User: That's the same thing.
+Agent: I will try to get the PAN card.
+User: Okay, thank you.
+Agent: Thank you very much.
+User: Okay, thank you.
+Agent: Thank you.
+User: Thank you.
+Agent: Thank you.
+User: Hello, yes, it's asking for the PAN card right now.
+Agent: I don't have it in my phone.
+User: It's in my laptop.
+Agent: I will tell you the PAN card number.
+User: I have your PAN card.
+Agent: Okay, okay.
+User: Wait, one minute.
+Agent: It's loading.
+User: I will tell you.
+Agent: P-H-U.
+User: P for Parrot, S for Sun.
+Agent: U for Umbrella.
+User: P-H-U.
+Agent: P-H-U.
+User: P-H-U.
+Agent: P-H-U.
+User: P for Parrot, S for Sun.
+Agent: 9205.
+User: 9205.
+Agent: 9205.
+User: May I repeat it now?
+Agent: Yes.
+User: P-H-U.
+Agent: P-H-U.
+User: P-H-U.
+Agent: P-H-U.
+User: P-H-U.
+Agent: P-H-U.
+User: P-H-U.
+Agent: P-H-U.
+User: P-H-U.
+Agent: 9205.
+User: You will know the rest of the details, right?
+Agent: Wait a second.
+User: P-H-U.
+Agent: P-H-U.
+User: P-H-U.
+Agent: 9205.
+User: P-H-U.
+Agent: P-H-U.
+User: 9205.
+Agent: It's not showing.
+User: P for peacock.
+Agent: H for hen.
+User: U for umbrella.
+Agent: S-H-U.
+User: S-H-U.
+Agent: S-H-U.
+User: S-H-U.
+Agent: S-H-U.
+User: S-H-U.
+Agent: S-H-U.
+User: S-H-U.
+Agent: S-H-U.
+User: S-H-U.
+Agent: S-H-U.
+User: S-H-U.
+Agent: S-H-U.
+User: S-H-U.
+Agent: S-H-U.
+User: S-H-U.
+Agent: All right.
+User: I'm sorry.
+Agent: I'm sorry.
+User: I'm sorry.
+Agent: Okay.
+User: It's showing more.
+Agent: It's a word.
+User: It's showing more civil score there.
+Agent: Hello?
+User: No civil score.
+Agent: Yes, sir.
+User: I'll be calling back.
+Agent: There are two possible reasons.
+User: You may have leveled out.
+Agent: You may have never taken a credit loan, loan on debt, or might not have enough data about
+User: your credit history.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: 

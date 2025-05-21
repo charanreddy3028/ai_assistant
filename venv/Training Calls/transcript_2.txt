@@ -1,0 +1,540 @@
+User: Hello.
+Agent: Hello.
+User: Excellent.
+Agent: Hey.
+User: Hello.
+Agent: Hello.
+User: So,
+Agent: um
+User: um
+Agent: what about you?
+User: how is college?
+Agent: college is over
+User: college is over?
+Agent: ok, do you have a job now?
+User: yes i have a job now
+Agent: i will do MCA
+User: ok good
+Agent: how is the next wave after you?
+User: next wave is fine
+Agent: next wave is fine
+User: how about support from mentors?
+Agent: support means
+User: SMM is also there
+Agent: SMM is in VSCode
+User: i didn't tell anything
+Agent: how to do it
+User: i am
+Agent: i am
+User: i am watching everything
+Agent: in youtube
+User: in VSCode
+Agent: i have to install
+User: software
+Agent: and then
+User: i have to deploy
+Agent: in whatsapp
+User: i didn't tell anything
+Agent: i wasted my time
+User: ok
+Agent: are those projects
+User: given by our people?
+Agent: no projects
+User: SMM is coming from this company
+Agent: ok
+User: did you apply for internships?
+Agent: no
+User: why?
+Agent: i didn't get internships
+User: ok, so you didn't apply
+Agent: apply means
+User: when i got it
+Agent: when i got it, it didn't work
+User: post didn't work
+Agent: full stack post
+User: ok
+Agent: so it got delayed
+User: it got delayed
+Agent: last assignment
+User: i didn't publish
+Agent: i sent it to them
+User: madam called
+Agent: and said you didn't publish
+User: because of that it got rejected
+Agent: ok
+User: now it came
+Agent: in last assignment
+User: performance was good
+Agent: now it's ok
+User: now it's ok
+Agent: i can do everything
+User: i can deploy
+Agent: where are you now?
+User: i am at home
+Agent: where in this village?
+User: pallnadu district
+Agent: ok
+User: pallnadu and nasarapet
+Agent: nasarapet
+User: ok
+Agent: so
+User: you already know one thing
+Agent: when our course is completed
+User: you will get IIT certificate
+Agent: industry certificate
+User: so along with this
+Agent: you will get master certificate
+User: madam said
+Agent: when all the sizes are completed
+User: then
+Agent: you will get
+User: yes
+Agent: you will get IIT certificate
+User: yes
+Agent: so along with this
+User: you will get master certificate
+Agent: you will get IIT certificate
+User: so
+Agent: this certificate is very valuable
+User: yes
+Agent: so
+User: you will get this certificate
+Agent: because of partnership
+User: so
+Agent: so
+User: i have a doubt
+Agent: now
+User: jobs are coming
+Agent: jobs are coming
+User: we are applying for that
+Agent: why so many people are applying
+User: I have four openings in a day.
+Agent: I have attended 100 people's talk.
+User: In our country?
+Agent: Yes.
+User: Last time I went to Hyderabad for an interview.
+Agent: For our company.
+User: I have four openings.
+Agent: Yes, in your company.
+User: I have four openings.
+Agent: Many people came.
+User: I have one assignment.
+Agent: I have four assignments in a day.
+User: Tell me one thing.
+Agent: You are saying that so many people came.
+User: How do you feel when other people send you instead of you?
+Agent: Think about it from your company's point of view.
+User: You will get a bad impression.
+Agent: You want to send students like them.
+User: Will you get the thought of sending us?
+Agent: Will you get the thought of sending us?
+User: I am a senior now.
+Agent: Will you get the thought of sending us?
+User: Yes, I will get the thought of sending you.
+Agent: You don't have any division.
+User: You will get the thought of sending us.
+Agent: Some people come only for internships.
+User: They have completed their course.
+Agent: You are in the end.
+User: What do you think?
+Agent: Do you want to go for a full-time job?
+User: That is the difference.
+Agent: There is a chance for both.
+User: Another thing.
+Agent: When I joined,
+User: I was told that
+Agent: I will do well in the next year.
+User: I will do well in the next year.
+Agent: I will do well in the next year.
+User: I don't need any tuition.
+Agent: I don't need any tuition.
+User: You are looking for a different engineer.
+Agent: You are looking for a different engineer.
+User: At the beginning,
+Agent: I was told that
+User: I don't need any tuition.
+Agent: I don't need any tuition.
+User: I can start from 10.
+Agent: I can start from 10.
+User: I can start from 10.
+Agent: There are two types of jobs.
+User: There are jobs based on degree.
+Agent: What is yours now?
+User: Mine?
+Agent: Mine?
+User: Some software companies
+Agent: tend to only want B.Tech
+User: Some software companies tend to only want B.Tech
+Agent: Majority will have the degree also.
+User: Majority will have the degree also.
+Agent: Compared to that,
+User: B.Tech is not as good as B.Tech
+Agent: 
+User: My advice is very out of date.
+Agent: Any bachelor's certificate
+User: Any bachelor's certificate
+Agent: is enough for the qualification.
+User: is enough for the qualification.
+Agent: In other words,
+User: a degree is better than anything else.
+Agent: It will go for any job
+User: B.Tech is only for coding
+Agent: B.Tech is only for coding
+User: Will Mark Work be able to do coding?
+Agent: Will Mark Work be able to do coding?
+User: What?
+Agent: Will Mark Work be able to do coding?
+User: or anything else?
+Agent: Why? It can also be done.
+User: Present software developers
+Agent: are all B.Tech graduates.
+User: No right?
+Agent: Majority will have the degree
+User: Not B.Tech
+Agent: B.Tech graduates go to business school
+User: B.Tech graduates go to business school
+Agent: I thought it was the first time
+User: Python was only 25%
+Agent: Python was only 25%
+User: Python was only 25%
+Agent: In 10 days
+User: In 10 days
+Agent: They will give clear questions
+User: without looking at the coding
+Agent: I stopped all the classes
+User: I stopped all the classes
+Agent: I stopped all the classes
+User: I stopped all the classes
+Agent: Rahul Sir said
+User: If you have any doubt
+Agent: you can clear it
+User: I will give 10 days
+Agent: I will give 10 days
+User: I will give 10 days
+Agent: once everything gets ready
+User: Then I will go to Python
+Agent: Then I will go to Python
+User: Python will have more competition
+Agent: Python will have more competition
+User: There is more competition
+Agent: There is more competition
+User: Whichever one I get
+Agent: It is better to try both
+User: It is better to try both
+Agent: It is better to try both
+User: I have somehow reached
+Agent: the full stack
+User: in the assignment
+Agent: When did you last talk to the mentor?
+User: When did you last talk to the mentor?
+Agent: Last time I spoke
+User: I spoke last time
+Agent: I spoke last time
+User: Which mentor is it?
+Agent: Mentor? I don't know
+User: I don't know
+Agent: I just said Madam
+User: So what do you want me to start now?
+Agent: What is it?
+User: You are telling me to start DSA now.
+Agent: Start is fine.
+User: If you want to start, you can put it on 2 digits.
+Agent: DSA is a little heavy.
+User: Yes.
+Agent: So we have to do everything day by day.
+User: I did the same for 2 classes.
+Agent: I did it for 2 classes.
+User: I did it for 2 classes.
+Agent: I said, I'll do it.
+User: Then they said, Madam, they are giving again.
+Agent: Do this interview.
+User: I said, this will go again.
+Agent: It's important for us to do the mock interview.
+User: It's good to do that.
+Agent: Because suddenly if someone says good, it's okay to select.
+User: What do you get by doing that mock interview?
+Agent: You get a good experience because of that.
+User: The interview after that will be free for you.
+Agent: You have to perform well without any fear.
+User: You will know how it will be.
+Agent: We will be there but we will be directly.
+User: It's like an interview on a laptop.
+Agent: It's a lot of work.
+User: You have to do it.
+Agent: You have to do it.
+User: You have to do it.
+Agent: You have to do it.
+User: You have to do it.
+Agent: If my learning is slow now, will I have time, sir?
+User: What do you mean?
+Agent: I mean, before the AMA ends.
+User: I'll tell you one more thing.
+Agent: You complete the course in these 3-4 months.
+User: So, if you don't complete it, you won't have classes.
+Agent: Our support will be with you until you reach 2,24,000 LPs.
+User: 2,00,000?
+Agent: Will that amount be enough, sir?
+User: Yes, sir.
+Agent: Until I get a job.
+User: Okay.
+Agent: Let's say you got a job after 5 LPs.
+User: Let's say you got a job after 7 LPs.
+Agent: We can't relish it until you get a job.
+User: So, from 7 LPs, you'll get 24 LPs.
+Agent: From 7 LPs, you'll get 12 LPs.
+User: From 12 LPs, you'll get 15 LPs.
+Agent: From 15 LPs, you'll get 18 LPs.
+User: After that, you'll get 24 LPs.
+Agent: So, until you reach 24 LPs, our support will be with you.
+User: Okay.
+Agent: So, until you reach 24 LPs, our support will be with you.
+User: Okay.
+Agent: Sir, I have a doubt.
+User: I got a job.
+Agent: As you said, if I get 2,00,000 LPs every month, I'll be done.
+User: Will I get the next wave profile or will you delete it?
+Agent: Your profile.
+User: I'll keep reading my next wave profile.
+Agent: You'll get 24 LPs.
+User: It's permanent.
+Agent: Did you say classes?
+User: Classes.
+Agent: Classes should end at some point.
+User: Right?
+Agent: I'll do it in the video.
+User: What?
+Agent: I'll cut the classes and keep my next wave profile.
+User: Okay.
+Agent: Will it be permanent or will you delete it?
+User: Do you mean classes or profile?
+Agent: Your next wave profile.
+User: I'll do it in the video.
+Agent: I'll cut the classes and keep my next wave profile.
+User: Okay.
+Agent: I'll do it in the video.
+User: After I get a job.
+Agent: If you get so many classes, will you delete it?
+User: Yes.
+Agent: Then, why would I do it?
+User: If you get updates, you'll get it.
+Agent: But, if you don't have classes, it's not possible.
+User: That's not what I'm saying.
+Agent: I'm learning the process.
+User: Yes.
+Agent: Once I learn it, it's all over.
+User: Once I learn the process and EMI, it's all over.
+Agent: What I'm learning now, I'll keep watching it.
+User: You're learning to watch the classes?
+Agent: Yes.
+User: I'm learning to watch the classes.
+Agent: It won't be there then.
+User: It won't be there.
+Agent: After I get 2 LPs.
+User: You tell me.
+Agent: There won't be a school in the college.
+User: It won't be in the video.
+Agent: They'll delete it.
+User: They'll remove the profile.
+Agent: Is that it?
+User: It'll be maximum.
+Agent: You won't come back until you get 24 LPs.
+User: Tell me what you're doing.
+Agent: You're learning to watch the classes.
+User: Yes.
+Agent: Yes or no?
+User: Yes.
+Agent: This is more for now.
+User: This is less for that time.
+Agent: Yes.
+User: When you go there.
+Agent: You can watch it all.
+User: You'll watch it for the updates.
+Agent: But, you won't watch it for the old classes.
+User: You already know the content of the old classes.
+Agent: Yes.
+User: Yes?
+Agent: Yes.
+User: Can I start from next month?
+Agent: Yes.
+User: Are you on leave now?
+Agent: No.
+User: I'm on leave now.
+Agent: Python is done.
+User: It'll be done in 10 days.
+Agent: Madam asked me to do a project on full stack.
+User: This month will be enough.
+Agent: Madam said...
+User: It's on Spotify now.
+Agent: To do the same project.
+User: Can I start from next month?
+Agent: Yes.
+User: It's okay.
+Agent: Okay.
+User: I'm only interested in that.
+Agent: I'll complete it in this month.
+User: It's very important.
+Agent: First, we need to get 24 LPs.
+User: First, we need to get a job.
+Agent: Yes.
+User: I'll try to get it.
+Agent: Okay?
+User: Okay.
+Agent: You have 75,000 rupees remaining.
+User: 75,000 rupees.
+Agent: 75,000 rupees.
+User: You paid it in 34 months.
+Agent: 1,84,181 rupees.
+User: You still have 75,000 rupees.
+Agent: You have 14 months.
+User: You have 5,418 rupees a month.
+Agent: Okay?
+User: Okay.
+Agent: Okay.
+User: Thank you.
+Agent: Thank you.
+User: 
+Agent: So you are paying the present in pairs. Who pays the extra money in pairs?
+User: It's in the account. It's not like paying, sir. It's automatic.
+Agent: Yeah, it's automatically deducted from the daddy's account, right?
+User: So why are you paying in pairs?
+Agent: The present is paired, sir.
+User: Sorry?
+Agent: The present was paired then.
+User: Oh, okay.
+Agent: So...
+User: So, you don't need anyone else to change it from pairs?
+Agent: That's what she said, sir.
+User: What did she say?
+Agent: She said, we'll do something else.
+User: There won't be 400 for that.
+Agent: 400?
+User: That hasn't changed.
+Agent: Okay.
+User: So, have you tried anything else yet?
+Agent: No, I haven't.
+User: I mean, you said you wanted to change it, right?
+Agent: You said you wanted to change it, right?
+User: I don't want to change it now, sir.
+Agent: Because, I'm getting fed up with these words.
+User: No, no. I'm not saying that.
+Agent: I'm just asking if anyone has done it or not.
+User: You're saying you've tried something else, right?
+Agent: I've tried something else, but it didn't work out, sir.
+User: Why?
+Agent: There were some issues.
+User: So, your dad doesn't have a Sibyl?
+Agent: Huh?
+User: Your dad doesn't have a Sibyl?
+Agent: Sibyl, sir?
+User: Sibyl score.
+Agent: Yeah.
+User: I have all that, sir.
+Agent: Why? Because it didn't work out.
+User: Was it in the starting, or when you called our team?
+Agent: When I called our team.
+User: In the starting, it was in Judo, sir.
+Agent: Okay.
+User: Hmm.
+Agent: Did your dad take any EMI before?
+User: EMI means...
+Agent: Yeah, he did.
+User: He had to pay 15,000 a month.
+Agent: EMI.
+User: House loan.
+Agent: Bank loan. Okay.
+User: When did your dad get his late payment?
+Agent: Hmm?
+User: When did your dad get his late payment?
+Agent: It happens, sir.
+User: Every email...
+Agent: It happens when there's no money.
+User: It happens, sir.
+Agent: Even this, sir.
+User: Even the next day, it was late this month.
+Agent: Hmm.
+User: One day.
+Agent: One day, it was late.
+User: The payment didn't work out.
+Agent: Hmm.
+User: Next day, I made the payment.
+Agent: Okay.
+User: So, do one thing.
+Agent: Will you check your dad's Sibyl score?
+User: Your dad's.
+Agent: Now, if it's a Pond card, it's a Pond card.
+User: What's that, sir?
+Agent: Pond card.
+User: I have to get a new Pond card.
+Agent: Is it broken?
+User: Is it broken?
+Agent: Is it broken?
+User: Is there a photo of it?
+Agent: Hmm.
+User: What is it, sir?
+Agent: Photo.
+User: Check your Sibyl score.
+Agent: If it's good, you'll change it.
+User: I'm not doing it, sir.
+Agent: Why?
+User: Why?
+Agent: Do you know why I'm telling you?
+User: Do you know why I'm telling you?
+Agent: Do you have this master certificate?
+User: Hmm.
+Agent: This will only be with people who are directly connected.
+User: Jodha is a second party.
+Agent: So, Jodha...
+User: I didn't say anything.
+Agent: My madam...
+User: My madam...
+Agent: My madam...
+User: If anyone says her name, I'll ask you to say it clearly.
+Agent: I'll ask her name.
+User: I'll tell her name.
+Agent: Hmm.
+User: Can I tell her name?
+Agent: Hmm.
+User: Tell her name.
+Agent: It's on the S board.
+User: Wait.
+Agent: Yes, yes.
+User: Very much.
+Agent: Very much.
+User: Okay.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: Okay.
+Agent: Okay.
+User: Okay, okay.
+Agent: One, two, three...
+User: Sahana Reddy.
+Agent: Potta Sahana Reddy.
+User: Is it Sahana?
+Agent: Yes, yes.
+User: Okay.
+Agent: I'll call her.
+User: Hmm?
+Agent: Do it.
+User: What did you say?
+Agent: Because if you want this mission execution certificate, we should be connected to the next person.
+User: I can't see you here with the certificate.
+Agent: So I asked her to do it, but she didn't do it, dear.
+User: Okay?
+Agent: Hmm.
+User: Okay, sir.
+Agent: Sorry.
+User: So do you have her contact number?
+Agent: No, sir.
+User: Okay.
+Agent: So don't call her.
+User: I'll call her too.
+Agent: Okay?
+User: Hmm.
+Agent: Yeah, okay.
+User: I'll call you later.
+Agent: Okay?
+User: Okay.
+Agent: Yeah, okay.
+User: I'm done.
+Agent: Yeah.

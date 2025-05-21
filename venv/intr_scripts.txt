@@ -1,0 +1,378 @@
+NxtWave Onboarding Narrative (Detailed English Version) 
+
+ 
+
+Section 1: Introduction & Rapport Building 
+
+Objective: 
+
+Ensure the parent is fully attentive, build emotional connection, and position this conversation as crucial to the child's future. 
+
+Script: 
+
+Greeting & Permission to Proceed 
+
+    Hello, am I speaking with Mr./Mrs. ? 
+
+    Good day! How are you doing today? 
+
+    I am , a Registration Expert from the NxtWave Team. 
+
+    Your child has successfully reserved a seat in our program, and I’m calling to guide you through the next steps of the process. 
+
+    Would you have 10 minutes right now to discuss this important matter? 
+
+If they say NO: 
+
+    I completely understand, but this is about your child’s career and future. It’s a very important decision, and I would really appreciate if we could take just 10 minutes. 
+
+    If they agree: Proceed to the next step. 
+
+    If no response or decline: That’s alright. When would be a good time to connect again? We receive 10-15 applications daily, so if you can suggest a convenient time, I’ll schedule it accordingly and send a WhatsApp confirmation. 
+
+If they say YES: 
+
+    Great! You've taken a remarkable step for 's future. Very few parents think ahead and take proactive action when it comes to career development. 
+
+ 
+
+Section 2: Appreciation and Icebreaking 
+
+Objective: 
+
+Establish trust, make them feel proud, and reinforce the value of their decision. 
+
+Script: 
+
+    First of all, congratulations! Your child has successfully reserved their seat in the program. 
+
+    Every month, hundreds of students attend our webinars, but only about 30-40 students are selected by our career guidance team. 
+
+    has been selected, showed initiative, and took guidance to reserve a seat. That is a big step. 
+
+    Only a handful of students show this kind of early focus on their careers and current industry-relevant skills. is one of them. 
+
+    The CGE shared that you were deeply involved, spent 2-3 hours understanding the program, and showed great interest and support. That’s amazing. 
+
+Building Rapport 
+
+    May I ask what you do for a living, ? 
+
+    Oh really? That’s great. (Ask relevant follow-up to build rapport) 
+
+    Where are you based currently? 
+
+    Is living with you or in a hostel? 
+
+    How is he/she performing in academics these days? 
+
+Note: Spend at least 5 minutes here. Avoid politics, religion, or caste. If the parent goes there, steer the conversation gently back. 
+
+ 
+
+Section 3: Product Value & Outcome Explanation 
+
+Objective: 
+
+Clearly communicate the gap in traditional education and how NxtWave uniquely solves it. 
+
+Script: 
+
+    Have you already understood what this course is about? 
+
+If NO: 
+
+Explain the Education Gap: 
+
+    In most colleges, students learn only theoretical concepts. There is very little practical exposure. 
+
+Use Car Example: 
+
+    Imagine someone learning how a car works through diagrams on a board. They write an exam and pass. 
+
+    Now, if we give them an actual car and ask them to drive, can they? 
+
+    Let them answer 
+
+    Exactly. They can’t, because they never practiced. 
+
+    The same is happening in education. Students know the theory, but when it comes to doing the job, they don’t have practical skills. 
+
+How NxtWave Fills the Gap: 
+
+    Our course is completely hands-on. Students work on real-time projects. 
+
+    These are the same skills and tools used in top companies. 
+
+    Today, even top college graduates mostly get ₹3–4 LPA jobs. Only the top 10% get ₹12–18 LPA. 
+
+    We help bridge this gap through our structured and practical curriculum. 
+
+Individual Development Plan (IDP) 
+
+    Every student has a custom learning plan, depending on how fast they learn. 
+
+    Some are fast learners, some need more time. We personalize their journey accordingly. 
+
+Learning Journey: 
+
+    Students go through 6 Growth Cycles. 
+
+    Start with basics like creating static websites. Then move to SQL, Python, React JS, dynamic apps like Facebook, Netflix. 
+
+    Internship eligibility begins at Growth Cycle 5. 
+
+    Every student is assigned a Success Coach for motivation, guidance, and ongoing support. 
+
+ 
+
+Section 4: Pricing & Payment Options 
+
+Objective: 
+
+Get confirmation on pricing and help them choose a payment mode. 
+
+Script: 
+
+    Since the seat has been reserved, let’s talk about the next step: payment. 
+
+    Can you confirm what fee details our CGE shared with you? 
+
+Two Payment Options: 
+
+    Full Payment 
+
+    Digital Loan via NBFC (No-Cost EMI) 
+
+    Which of these options would be more convenient for you? 
+
+    [Optional Upsell]: Most parents prefer 24-month EMI for better manageability over 36-month. 
+
+ 
+
+Section 5: NBFC & Loan Process Explanation 
+
+Objective: 
+
+Help parents feel safe about EMI process and understand NBFC role. 
+
+Script: 
+
+What are NBFCs? 
+
+    NBFCs are Non-Banking Financial Companies. 
+
+    We partnered with them so students can pay in monthly installments, instead of a large upfront fee. 
+
+    Many students miss such opportunities because they can't pay full fees at once. NBFCs help solve that. 
+
+Benefits of Digital Loan: 
+
+    Pay small monthly amounts. 
+
+    No collateral required. 
+
+    Completely interest-free. 
+
+    100% digital. No paperwork or branch visits. 
+
+Why NBFCs, Not Direct Payment to NxtWave? 
+
+    We are a product-focused company. Managing EMI collections ourselves would require massive manpower. 
+
+    Instead, NBFCs manage this securely, which lets us focus on student success. 
+
+Our Partner NBFCs: 
+
+    Bajaj Finserv 
+
+    Varthana 
+
+    Feemonk 
+
+    Shopse 
+
+    All are RBI-approved and top-rated. 
+
+ 
+
+Section 6: KYC & Right Co-Applicant (RCA) 
+
+Objective: 
+
+Ensure correct documents and eligible co-applicant are provided. 
+
+Why Co-Applicant is Required: 
+
+    For EMI approval, a financially eligible co-applicant is needed. 
+
+    This person needs to provide: 
+
+    PAN (ID proof) 
+
+    Aadhaar (Address proof) 
+
+    Bank Proof (passbook / cancelled cheque / statement) 
+
+    Live photo 
+
+    15-sec consent video 
+
+Sample Video Content: 
+
+    "I, , am providing my documents for ’s NxtWave course and digital loan process." 
+
+Check CIBIL Score: 
+
+    Ask the parent to check and send a screenshot of their CIBIL score. 
+
+    Confirm employment status and monthly income. 
+
+If Parent is Not Eligible: 
+
+    Ask who else in the family can be the co-applicant. 
+
+    Guide them to talk to that person with confidence, using the value narrative. 
+
+ 
+
+Section 7: Resistance Handling (Highly Elaborated) 
+
+1. CGE Didn't Explain EMI/Loan 
+
+Response: 
+
+    I understand, sometimes we focus so much on how the program benefits the student that the financial process may not be fully absorbed. 
+
+    EMI is just another way to pay monthly. Like when we buy a phone or a fridge. 
+
+    It’s the same secure process. Also, our team spent 30–40 minutes, and it’s possible this part was missed. 
+
+2. Don’t Want Loan 
+
+Response: 
+
+    What concerns you about a loan? 
+
+    Many parents associate loans with risk. But this is not a typical loan with interest or heavy penalties. 
+
+    This is a no-cost EMI through digital platforms, like Flipkart or Amazon offer for laptops. 
+
+    You’re not paying extra, just spreading the cost monthly. 
+
+    Many of our parents are farmers, homemakers, shopkeepers. They found this very helpful. 
+
+3. Don’t Want Auto Debit / PIN & OTP 
+
+Response: 
+
+    This is not NxtWave asking for your PIN. Your bank asks for it to confirm that monthly payment should go from your account. 
+
+    It’s like any online purchase where you authorize payment using OTP. 
+
+    The platform used is government-approved (NPCI). 
+
+4. What if NxtWave Shuts Down? 
+
+Response: 
+
+    That’s a valid concern. But let’s look at the facts. 
+
+    We are recognized by NSDC (National Skill Development Corporation). 
+
+    Received ₹275 Cr in Series-A funding from reputed global investor Greater Pacific Capital. 
+
+    Publicly appreciated by KTR (Minister of IT, Telangana) and partnered with AP Innovation Center. 
+
+    Institutions like this don’t invest in companies that aren’t sustainable. 
+
+5. Financial Struggles 
+
+Response: 
+
+    I understand your situation. Let’s explore what’s truly stopping us. 
+
+    Can I ask about your monthly income, any siblings studying, and family commitments? 
+
+    Your child joined this because you believed it could change their future. 
+
+    We're here to support. Let’s find a way – even a partial payment option. 
+
+6. Resistance in Uploading Consent Video 
+
+Response: 
+
+    The video is just for consent confirmation. It ensures transparency. 
+
+    It's not shared anywhere. Only for internal verification. 
+
+ 
+
+Section 8: Closing & Urgency Hooks 
+
+    Are you ready to proceed with document submission? 
+
+If Yes: Proceed with application. 
+
+If No: 
+
+    Let me explain why timing is crucial. 
+
+    We have an exclusive Generative AI Workshop coming up with Tezan Sahu (Microsoft Engineer). 
+
+    It’s available only for students who complete onboarding in 2 days. 
+
+    Let’s not delay and miss out on this valuable opportunity. 
+
+ 
+
+Section 9: Post-Call Follow-Up Messages 
+
+After Intro Call 
+
+Hello , congratulations on successful seat reservation. Please submit the required KYC documents at https://learning.ccbp.in: 
+
+    PAN 
+
+    Aadhaar (Front & Back) 
+
+    Bank Proof 
+
+    CIBIL Score Screenshot 
+
+    Photo 
+
+    Consent Video 
+
+    Employment Details 
+    Kindly complete this by to proceed. 
+
+After NBFC Application Created 
+
+Hello , here are your No Cost EMI details with : 
+
+    Loan Amount: 
+
+    Tenure: 
+    Please be ready for the verification call. 
+
+After EMI Process Completion 
+
+Dear , 
+Congratulations! EMI process completed successfully. 
+You can now access classes here: https://learning.ccbp.in 
+Loan Split: 
+
+    SR + DP Paid: 
+
+    Loan Amount: 
+
+    Tenure: 
+
+    EMI Amount: 
+
+ 
+
+This document can be used as a master script and vectorized for AI training or Sales onboarding. 
+
+ 
